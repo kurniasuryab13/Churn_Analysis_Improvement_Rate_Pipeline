@@ -36,7 +36,7 @@ end to end — with final results visualized using Google Looker Studio.
 
 # 🔗 Dataset Link
 
-- [Dataset](https://www.kaggle.com/datasets/abbas829/telco-customer-churn-dataset/data)
+- [Telco Kaggle Dataset](https://www.kaggle.com/datasets/abbas829/telco-customer-churn-dataset/data)
 
 ---
 
