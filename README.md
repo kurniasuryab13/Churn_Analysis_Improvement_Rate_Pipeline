@@ -12,11 +12,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 This project focuses on Exploratory Data Analysis (EDA), data insight analysis, 
-conversion rate evaluation, and data pipeline development.  
-The goal of this project is to uncover meaningful insights from the data, 
+conversion rate evaluation, and data pipeline development. The goal of this project is to uncover meaningful insights from the data, 
 track and analyze conversion rates, and automate the data workflow through 
-a structured pipeline.  
-This repository includes Python scripts that handle the ETL process, data 
+a structured pipeline. This repository includes Python scripts that handle the ETL process, data 
 transformation, exploratory analysis, and conversion rate reporting from 
 end to end — with final results visualized using Google Looker Studio.
 
