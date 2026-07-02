@@ -109,7 +109,7 @@ process, designed to be automated using Apache Airflow.
 
 # 💻 Additional Operations
 
-## 1. Open Apache Airflow in browser with docker
+## 1. Open Apache Airflow in browser with docker have in settings.
 
 ```text
 http://localhost:8080
