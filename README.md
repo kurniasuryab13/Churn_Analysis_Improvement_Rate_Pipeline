@@ -16,7 +16,7 @@ conversion rate evaluation, and data pipeline development. The goal of this proj
 track and analyze conversion rates, and automate the data workflow through 
 a structured pipeline. This repository includes Python scripts that handle the ETL process, data 
 transformation, exploratory analysis, and conversion rate reporting from 
-end to end — with final results visualized using Google Looker Studio.
+end to end, with final results visualized using Google Looker Studio.
 
 ---
 
