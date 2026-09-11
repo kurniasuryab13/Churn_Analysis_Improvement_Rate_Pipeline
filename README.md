@@ -15,8 +15,7 @@ This project focuses on Exploratory Data Analysis (EDA), data insight analysis,
 conversion rate evaluation, and data pipeline development. The goal of this project is to give meaningful insights from the data, 
 track and analyze conversion rates, and do the automation the data workflow through 
 a structured pipeline with Airflow. This repository includes Python scripts that handle the ETL process, data 
-transformation, exploratory analysis, and conversion rate reporting from 
-end to end, with final results visualized using Google Looker Studio.
+transformation, exploratory analysis, and conversion rate reporting from end to end, with final results visualized using Google Looker Studio.
 
 ---
 
@@ -91,8 +90,7 @@ data throughout the pipeline.
 
 ## 1. Data Analyst
 
-- `Churn_EDA_and_Business_Analysis.ipynb` : A Python script containing the steps for Exploratory Data Analysis (EDA) 
-and business analysis.
+- `Churn_EDA_and_Business_Analysis.ipynb` : The steps for Exploratory Data Analysis (EDA) and business analysis.
 - `Algoritma_Improvement_Rate.ipynb` : A Jupyter Notebook containing the algorithm to determine target customers 
 for promotional campaigns based on improvement rate analysis.
 
